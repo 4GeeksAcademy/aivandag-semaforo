@@ -31,20 +31,27 @@ border-radius:10px;
     height:60px;
     border-radius:60%;
     cursor: pointer;
+    margin-top: 2px;
     
 }
 
 .roja {
     background-color: red;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 .amarilla {
     background-color: yellow;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 .verde {
     background-color: green;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
-.selected {
+.on {
     box-shadow: 0 0 30px 10px white;
     opacity: 1;
 
